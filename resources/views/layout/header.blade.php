@@ -3,7 +3,7 @@
         <div class="flex lg:flex-1">
             <a href="/" class="-m-1.5 p-1.5">
                 <span class="sr-only">Your Company</span>
-                <img src="../../../jetbrains.png" alt="JetBrains logo." class="logo">
+                <img src="geto.jpg" alt="JetBrains logo." class="logo w-32 h-32 rounded-full">
             </a>
         </div>
         <div id="menu-button" class="sm:hidden">
@@ -16,8 +16,8 @@
         </div>
         <div class="hidden lg:flex lg:gap-x-12 center">
             <a href="/" class="text-lg font-semibold leading-6 text-gray-400 hover:text-white transition duration-200">Home</a>
-            <a href="/films" class="text-lg font-semibold leading-6 text-gray-400 hover:text-white transition duration-200">Films</a>
-            <a href="/videogames" class="text-lg font-semibold leading-6 text-gray-400 hover:text-white transition duration-200">Videogames</a>
+            <a href="/films" class="text-lg font-semibold leading-6 text-gray-400 hover:text-white transition duration-200">Pel·licules</a>
+            <a href="/videogames" class="text-lg font-semibold leading-6 text-gray-400 hover:text-white transition duration-200">Videojocs</a>
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <p class="text-3xl font-semibold leading-6 text-white">🙉</p>
@@ -44,8 +44,8 @@
                 <div class="-my-6 divide-y divide-gray-500/25">
                     <div class="space-y-2 py-6">
                         <a href="/" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-800">Home</a>
-                        <a href="/films" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-800">Films</a>
-                        <a href="/videogames" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-800">Videogames</a>
+                        <a href="/films" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-800">Pel·licules</a>
+                        <a href="/videogames" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-800">Videojocs</a>
                     </div>
                 </div>
             </div>

@@ -5,18 +5,18 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class film extends Model
+class videogames extends Model
 {
     use HasFactory;
 
     public $timestamps = false;
 
-    protected $table = 'films';
+    protected $table = 'videogames';
     protected $fillable = [
         'title',
-        'director',
+        'studio',
         'genre',
-        'duration',
+        'rating',
         'year'
     ];
 }
